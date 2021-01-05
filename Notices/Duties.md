@@ -16,8 +16,8 @@
 
 <H4> 2. Chief Editors
 
-1. Dr. Sumeet Kaur Sehra
-2. Er. Yuvraj Singh
+1. Dr. Sumeet Kaur Sehra (CSE)
+2. Er. Yuvraj Singh (CE)
 
 <h4> 3. Editors
 
