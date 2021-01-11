@@ -1,0 +1,28 @@
+
+#### Instructions to be followed for submitting data for Newsletter 2021
+
+The Newsletter 2021 is to be released containing data from January 2020 to December 2020. As per the office order no. RK/1428, dated 17.12.20, it has been decided to prepare the Newsletter through GitHub. For executing the same, kindly follow the instructions below -
+
+1. Create an account at [https://github.com/](https://github.com/).
+
+2. Also install a text editor named **ATOM** from [https://atom.io/](https://atom.io/).
+3. Once you have created a GitHub account, `fork` a repository named `Newsletter` from [https://github.com/gndec-2021/Newsletter](https://github.com/gndec-2021/Newsletter).
+4. Once `forked`, open **Atom** and click on `Version control with Git and GitHub` followed by `Open the GitHub Panel`.
+5. You will get a `Welcome Screen`, where you will have to click on `Clone an existing GitHub repository`.
+6. A new dialogue box will pop-up asking **Clone from**. Type url of the type https://github.com/UserID/Newsletter.git. [Replace **UserID** with your **GitHub UserID**].
+
+  *Alternatively, you can get the link to clone repository by clicking on green tab named `Code` on your GitHub Account*
+
+7. The above step will `clone` the forked repository named `Newsletter` in the text editor **Atom**.
+8. To the left panel of the editor **Atom**, you will be able to see your **Project**, containing various folders and files.
+9. In the project, find the folder named `Content`. Click on it, and find another sub-folder with the name of your Department (Eg: CE, CSE, ME, etc.).
+
+  *Let us say, your department is Civil Engineering. Then you will have to work on **ONLY** the folder named `CE`.*
+10. In the folder of your respective department, you will find a folder named `Images` and a file named `x.md` where x is abbreviation of your department.
+11. Use the `Images` folder to keep photographs/Images to be published in Newsletter. You are free to make sub-folders for different set of images like Events, Faculty, etc.
+12. Refer `x.md` file to understand the Markdown Syntax. Edit the same file with the content of your department.
+13. You can **preview changes** by pressing `Ctrl+Shift+M`.
+14. Save it by pressing `Ctrl+S`.
+15. Towards the right panel of the editor **Atom**, you will find `Unstaged Changes` under `Git`. Click on `Stage All`.
+16. Write an appropriate `Commit message` (preferably the name of your department with any other message you wish to convey) and Click on `Commit to main`.
+17. Followed by this, w
