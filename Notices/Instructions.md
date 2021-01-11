@@ -25,4 +25,10 @@ The Newsletter 2021 is to be released containing data from January 2020 to Decem
 14. Save it by pressing `Ctrl+S`.
 15. Towards the right panel of the editor **Atom**, you will find `Unstaged Changes` under `Git`. Click on `Stage All`.
 16. Write an appropriate `Commit message` (preferably the name of your department with any other message you wish to convey) and Click on `Commit to main`.
-17. Followed by this, w
+17. Followed by this, you will find an option `Push` at the bottom most bar. Click `Push`.
+18. It will ask for your GitHub `User Name` and `Password`. Enter details and you are good to go.
+19. After this, go to your GitHub Account or follow link, https://github.com/UserID/Newsletter, [Replace **UserID** with your **GitHub UserID**].
+20. You can review your work and preview changes. If you are satisfied with your work, you have to send the updates to us by sending a `Pull Request`.
+21. Click on `Pull Request`, followed by `New Pull Request`. To compare changes click on `compare across forks`.
+22. Choose `your repository` as `head repository` and `gndec-2021/Newsletter` as `base repository`.
+23. Click on `Create a Pull Request`. You are done.
