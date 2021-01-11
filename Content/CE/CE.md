@@ -2,6 +2,10 @@
 
 #### List of Publications
 
+![YJS](Content\CE\Images\picture.png)
+
+##### Yuvraj Singh
+
 - [Singh Y., Singh H. (2021) Applications of Fiber Reinforced Polymer
 Laminates in Strengthening of Structures. In: Ashish D.K., de Brito J.,
 Sharma S.K. (eds) 3rd International Conference on Innovative Technologies
