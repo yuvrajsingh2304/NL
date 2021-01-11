@@ -4,7 +4,6 @@
 The Newsletter 2021 is to be released containing data from January 2020 to December 2020. As per the office order no. RK/1428, dated 17.12.20, it has been decided to prepare the Newsletter through GitHub. For executing the same, kindly follow the instructions below -
 
 1. Create an account at [https://github.com/](https://github.com/).
-
 2. Also install a text editor named **ATOM** from [https://atom.io/](https://atom.io/).
 3. Once you have created a GitHub account, `fork` a repository named `Newsletter` from [https://github.com/gndec-2021/Newsletter](https://github.com/gndec-2021/Newsletter).
 4. Once `forked`, open **Atom** and click on `Version control with Git and GitHub` followed by `Open the GitHub Panel`.
