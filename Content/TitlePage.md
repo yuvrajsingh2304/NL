@@ -5,4 +5,4 @@ An Autonomous College Under UGC Act 1956
 
 ![GNDEC](Images/GNDEC.png)
 
-| [Home](TitlePage.md) | [Contents](Contents.md) |
+| [Home](TitlePage.md) | [Contents](CoverPage/Contents.md) |
