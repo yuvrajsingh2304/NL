@@ -5,7 +5,7 @@
 |:--------|:---------------------------------------------|
 | 1       | Message from Principal's Desk                |
 | 2       | General Information                          |
-| 3       | [Department of Civil Engineering](CE/CE.md)  |
+| 3       | [Department of Civil Engineering](https://github.com/yuvrajsingh2304/NL/blob/main/Content/CE/CE.md)  |
 | 4       | Department of Mechanical Engineering         |
 | 5       | Department of Production Engineering         |
 | 6       | Department of Electrical Engineering         |
