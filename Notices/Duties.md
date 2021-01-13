@@ -1,45 +1,51 @@
 
 
-<div align="center">Guru Nanak Dev Engineering College
+<div align="center">  <H4>Guru Nanak Dev Engineering College
 
-<div align="center"> Committee for Newsletter
+<div align="center"> <H4>Committee for Newsletter
 
   No._____________																																													Date:_________
 
 
 
-  The following faculty members will consist of the newsletter committee.
+The committee for newsletter will have the following constitution.
 
- <H4> 1. Advisors
+<H4> Chairperson 
+
+  Dr. Sehijpal Singh
+
+ <H4> Advisors
 
    HODs of the respective departments
 
-<H4> 2. Chief Editors
-
-1. Dr. Sumeet Kaur Sehra (CSE)
-2. Er. Yuvraj Singh (CE)
-
-<h4> 3. Editors
-
-    1. Er. (CE)
-    2. (ME)  
-    3. (CSE)
-    4. (ECE) 
-    5. (EE)
-    6. (IT)
-    7. (PE)
-    8. (MBA)
-    9. (MCA)
-    10. Applied Science
-    11. (Sports)  
+<H4> Chief Editors
 
 
+  1. Dr. Sumeet Kaur Sehra (CSE)
+  2. Er. Yuvraj Singh (CE)
 
+<H4>Editors
 
+1. Er. Navneet Singh (CE)
+2. Dr. Amit Jain (CSE)
+3. Er. Preeti Pannu (ECE)
+4. Er. Harleen Kaur (EE)
+5. Er. Harpreet Kaur (IT)
+6. Er. Prem Singh (ME)
+7. Er. Gulraj Singh (PE)
+8. Dr. Navdeep Kaur (MBA)
+9. Er. Ramandeep Kaur (Applied Science)
+10. Ms. Navjot Kaur (School of Architecture)
+11. Dr. Gunjan Bhardwaj (Sports)  
+12. Er. Sachin Bagga (Training and Placement)
 
 
 
-​																																				Principal
+
+
+
+
+​																																				**Principal**
 
 
 
