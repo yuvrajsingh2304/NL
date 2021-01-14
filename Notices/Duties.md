@@ -2,14 +2,14 @@
 
 <div align="center">  <H2>Guru Nanak Dev Engineering College
 
-<div align="center"> <H2>Committee for Newsletter
+<div align="center">  Committee for Newsletter </H2>
 
 
 <div align="right"> <H5>Date:
 
 No.: </H5>
 
-<div align="left"><H4>The committee for newsletter will have the following constitution.</H6>
+<div align="left"><H4>The committee for newsletter will have the following constitution.</H4>
 
 
 <div align="left"><H4> Chairperson </H4>
