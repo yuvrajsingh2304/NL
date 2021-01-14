@@ -1,9 +1,9 @@
 
 
-# Guru Nanak Dev Engineering College
+# Guru Nanak Dev Engineering College, Ludhiana
 ## Committee for Newsletter
 
-**Date:** 
+**Date:**   
 **No.:**
 
 The committee for newsletter will have the following constitution.
@@ -38,6 +38,8 @@ HoDs of respective Departments
   
   
     
+  
+  
     
 **Principal**
 
