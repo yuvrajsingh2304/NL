@@ -1,30 +1,26 @@
 
 
-<div align="center">  <H4>Guru Nanak Dev Engineering College
+<div align="center">  <H3>Guru Nanak Dev Engineering College
 
-<div align="center"> <H4>Committee for Newsletter
-
-  No._____________																																													Date:_________
+<div align="center"> <H5>Committee for Newsletter
 
 
+<div align="right"> <H5>Date:
 
-The committee for newsletter will have the following constitution.
 
-<H4> Chairperson 
+<H6>The committee for newsletter will have the following constitution.
 
-  Dr. Sehijpal Singh
 
- <H4> Advisors
+<div align="left"><H5> Chairperson
 
-   HODs of the respective departments
+Dr. Sehijpal Singh
 
-<H4> Chief Editors
-
+<H5> Chief Editors
 
   1. Dr. Sumeet Kaur Sehra (CSE)
   2. Er. Yuvraj Singh (CE)
 
-<H4>Editors
+<H5>Editors
 
 1. Er. Navneet Singh (CE)
 2. Dr. Amit Jain (CSE)
@@ -45,18 +41,9 @@ The committee for newsletter will have the following constitution.
 
 
 
-​																																				**Principal**
+​																																				 <div align="right">**Principal**
 
 
 
 
 ​    
-
-  
-
-
-
-
-
-
-
