@@ -1,10 +1,14 @@
-## Department of Civil Engineering
+# Department of Civil Engineering  
 
-### Faculty Achievements
 
-### Publications
+## Faculty Achievements  
 
-### Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)
+
+## Publications  
+
+
+## Events Organized (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+
 
 | Sr. No. | Name of Event | Faculty Coordinator | Duration | Date(s) | Sponsor(s) |
 |:--------|:--------------|:--------------------|:---------|:--------|:-----------|
@@ -12,7 +16,8 @@
 |         |               |                     |          |         |            |
 |         |               |                     |          |         |            |
 
-### Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)
+## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
+
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
@@ -20,7 +25,8 @@
 |         |                 |               |          |         |                      |
 |         |                 |               |          |         |                      |
 
-### Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)
+## Miscellaneous (Lab Upgradation, Infrastructure augmentation etc.)  
 
 
-### Student's Corner
+
+## Student's Corner  
