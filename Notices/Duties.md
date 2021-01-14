@@ -1,7 +1,7 @@
 
 
-### Guru Nanak Dev Engineering College
-#### Committee for Newsletter
+# Guru Nanak Dev Engineering College
+## Committee for Newsletter
 
 Date: ___________.  
 No.: ____________.
