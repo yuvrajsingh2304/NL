@@ -1,11 +1,11 @@
 
 
-### <div align="center">  Guru Nanak Dev Engineering College
-### <div align="center"> Committee for Newsletter
+### Guru Nanak Dev Engineering College
+#### Committee for Newsletter
 
-<div align="right"> Date: 
+Date: _________
 
-No.: </div>
+No.: __________
 
 The committee for newsletter will have the following constitution.
 
@@ -13,7 +13,7 @@ The committee for newsletter will have the following constitution.
 
 Dr. Sehijpal Singh
 
-#### Advisors </H4>
+#### Advisors
 
 HoDs of respective Departments
 
@@ -35,11 +35,10 @@ HoDs of respective Departments
 9. Er. Ramandeep Kaur (Applied Science)
 10. Ms. Navjot Kaur (School of Architecture)
 11. Dr. Gunjan Bhardwaj (Sports)  
-12. Er. Sachin Bagga (Training and Placement)
+12. Er. Sachin Bagga (Training and Placement)  
 
 
-
- **Principal**
+**Principal**
 
  **CC:**
  - All HoDs
